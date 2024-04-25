@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wfrAhNXj5NUUG9sTyc10ELoAljZ4ihzd4gfYKlAdcU4=",
+  "Source": "jwtRegisterLogin",
+  "BasePath": "_content/jwtRegisterLogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
